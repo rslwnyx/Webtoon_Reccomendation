@@ -8,6 +8,7 @@ PROCESSED_DATA_PATH = os.path.join(DATA_PATH, 'processed', 'data_processed.csv')
 
 MODEL_PATH = os.path.join(BASE_DIR, 'models', 'model.pkl')
 VECTORIZER_PATH = os.path.join(BASE_DIR, 'models', 'vectorizer.pkl')
+SCALER_PATH = os.path.join(BASE_DIR, 'models', 'scaler.pkl')
 
 MAX_FEATURES = 5000
 NUM_RECS = 5
