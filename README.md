@@ -1,3 +1,7 @@
+Ypu can test the Reccomender bu using:
+https://webtoonrecapp-tkbzkt2w3etnze6y7stqze.streamlit.app/
+
+
 Webtoon Recommendation System - Project Report
 1) Problem Definition Users struggle to find personalized content due to popularity-biased lists. The goal is to build a system that suggests webtoons based on content similarity, genre, and quality, enabling niche discovery.
 
@@ -32,3 +36,4 @@ CTR (Click-Through Rate): Do users click suggestions?
 Conversion Rate: Do they start reading?
 
 Diversity: Does the model suggest varied content?
+
